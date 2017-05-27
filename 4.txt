@@ -1,2 +1,6 @@
 write text below line
+<<<<<<< HEAD
+mod this text file
+=======
 asdfa sd a;lksdjflkasd
+>>>>>>> upstream/master
