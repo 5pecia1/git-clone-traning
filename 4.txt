@@ -1,4 +1,8 @@
 write text below line
 asdfa sd a;lksdjflkasd
+<<<<<<< HEAD
+lsy come
+=======
 fdsfds
 after fetch upstream
+>>>>>>> upstream/master
