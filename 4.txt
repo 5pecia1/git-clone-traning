@@ -1,4 +1,5 @@
 write text below line
+<<<<<<< HEAD
 asddsa
-asdsadd213
-2134341asda
+asd
+>>>>>>> upstream/master
