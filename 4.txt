@@ -1,2 +1,11 @@
 write text below line
+<<<<<<< HEAD
 dfjaskfjalsjdfsalkjfdaslkdfj;sl
+=======
+fjksahfkjdslhf
+fdsahf
+dahf
+dafh
+sahf
+
+>>>>>>> upstream/master
