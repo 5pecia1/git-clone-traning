@@ -1,7 +1,11 @@
 write text below line
+<<<<<<< HEAD
+below text write text
+=======
 fjksahfkjdslhf
 fdsahf
 dahf
 dafh
 sahf
 
+>>>>>>> upstream/master
